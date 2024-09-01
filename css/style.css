@@ -464,7 +464,7 @@ a.user {
 /*-- //header --*/
 /*--/banner --*/
 .main-banner {
-    background-image: url(../images/banner.jpg);
+    background-image: url(../images/banner.png);
     background-repeat: repeat-x;
     animation: slideleft 20000s infinite linear;
     -webkit-animation: slideleft 20000s infinite linear;
